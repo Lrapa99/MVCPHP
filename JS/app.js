@@ -1,0 +1,1 @@
+alert('Estoy importanto un archivo js, desde views');
